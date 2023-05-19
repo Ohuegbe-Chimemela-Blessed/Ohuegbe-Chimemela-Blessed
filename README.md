@@ -8,9 +8,10 @@ That'll be all.
 <br>
 Tchüss und bis später!
 
-![Snake animation](https://github.com/thepiyushmalhotra/Ohuegbe-Chimemela-Blessed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ohuegbe-Chimemela-Blessed/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohuegbe-Chimemela-Blessed)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Ohuegbe-Chimemela-Blessed/Ohuegbe-Chimemela-Blessed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
