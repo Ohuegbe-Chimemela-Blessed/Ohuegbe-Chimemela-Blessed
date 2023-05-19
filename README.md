@@ -8,9 +8,8 @@ That'll be all.
 <br>
 Tchüss und bis später!
 
-![Snake animation](https://github.com/Ohuegbe-Chimemela-Blessed/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohuegbe-Chimemela-Blessed)](https://github.com/anuraghazra/github-readme-stats)
+[![Blessed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohuegbe-Chimemela-Blessed)](https://github.com/Ohuegbe-Chimemela-Blessed/github-readme-stats)
 
 
 <!---
